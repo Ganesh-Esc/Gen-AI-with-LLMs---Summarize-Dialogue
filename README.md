@@ -1,8 +1,6 @@
 # Gen-AI-with-LLMs---Summarize-Dialogue
 # Dialogue Summarization with Generative AI 🤖
 
-![Lab](https://img.shields.io/badge/Lab-Prompt%20Engineering-blue)
-
 This lab explores the task of **dialogue summarization** using generative Large Language Models (LLMs). You will investigate how the structure and content of input text (prompts) affect the model's output.
 
 The primary focus is on **prompt engineering**, where you will guide the model to perform the summarization task more effectively. By comparing zero-shot, one-shot, and few-shot inference techniques, you will learn foundational strategies to enhance and control the generative output of LLMs.
